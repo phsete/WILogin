@@ -86,4 +86,4 @@ for USERNAME in USERNAMES:
                 print(f"Found Server! It is {selected_server} with username {USERNAME} and password {PASSWORD}")
                 exit(0)
                 
-        print("No Server responds the given credentials. :-(") # the machine influences your emotions :(
+        print("No Server responds to the given credentials. :-(") # the machine influences your emotions :(
